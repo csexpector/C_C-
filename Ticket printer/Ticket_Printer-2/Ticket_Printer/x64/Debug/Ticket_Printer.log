@@ -1,0 +1,20 @@
+﻿Build started 3/11/2016 1:10:50 AM.
+     1>Project "E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\Ticket_Printer\Ticket_Printer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\x64\Debug\Ticket_Printer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\x64\Debug\Ticket_Printer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\x64\Debug\Ticket_Printer.lib" /MACHINE:X64 x64\Debug\Address.obj
+         x64\Debug\main.obj
+         x64\Debug\Performance.obj
+         x64\Debug\Seat.obj
+         x64\Debug\Seat_Row.obj
+         x64\Debug\Ticket.obj
+         x64\Debug\Ticket_Book.obj
+         x64\Debug\Venue.obj
+         Ticket_Printer.vcxproj -> E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\x64\Debug\Ticket_Printer.exe
+     1>Done Building Project "E:\Google Drive\OnlineTutor\CourseHero\C_C++\Ticket printer\Ticket_Printer-2\Ticket_Printer\Ticket_Printer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

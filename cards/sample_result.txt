@@ -1,0 +1,27 @@
+Doans-MBP:cards dttung$ ./card 
+Choose your action:
+1. Read unshuffled cards from input.txt.
+2. Shuffle the cards and print to output.txt.
+3. Quit.
+Your choice: 1
+Reading unshuffled cards from file ... Finish!
+Here are unshuffled cards: 
+ace heart two heart three heart four heart five heart six heart seven heart eight heart nine heart ten heart jack heart queen heart king heart ace club two club three club four club five club six club seven club eight club nine club ten club jack club queen club king club ace diamond two diamond three diamond four diamond five diamond six diamond seven diamond eight diamond nine diamond ten diamond jack diamond queen diamond king diamond ace spade two spade three spade four spade five spade six spade seven spade eight spade nine spade ten spade jack spade queen spade king spade 
+
+
+Choose your action:
+1. Read unshuffled cards from input.txt.
+2. Shuffle the cards and print to output.txt.
+3. Quit.
+Your choice: 2
+Shuffle cards ... Finish!
+Here are shuffled cards: 
+ten club eight diamond seven heart ace spade king club queen diamond two heart six heart jack spade eight spade four diamond three club king diamond nine heart ace club queen club ace heart nine diamond ten spade ace diamond five diamond six spade king spade four spade jack heart three heart two diamond queen heart five spade two club eight heart five heart ten diamond jack club seven spade four heart four club three diamond eight club two spade jack diamond queen spade six diamond seven club ten heart king heart nine spade five club seven diamond nine club six club three spade 
+Print to output.txt ... Done!
+Choose your action:
+1. Read unshuffled cards from input.txt.
+2. Shuffle the cards and print to output.txt.
+3. Quit.
+Your choice: 3
+Bye!
+Doans-MBP:cards dttung$ 
